@@ -1,0 +1,16 @@
+# OOP Workout
+
+## Challenges Completed
+* **Challenge 1:** Base Vehicle Class (`c1_vehicle.py`)
+* **Challenge 2:** Encapsulated FuelTank Class (`c2_tank.py`)
+* **Challenge 3:** Inheritance for Vehicle Types (`c3_type.py`)
+* **Challenge 4:** Electric Vehicle Direct Inheritance (`c4_electric.py`)
+* **Challenge 5:** Dunder Methods (`c5_dunders.py`)
+* **Challenge 6:** Polymorphic Fleet Manager (`c6_fleet.py`)
+
+## Collaboration
+* Worked individually on these challenges.
+
+## Difficulties Encountered
+* Challenges 3,5 and 6 were the most difficult for me to complete. I struggled with the polymorphic nature of the `Vehicle` class and the need to implement dunder methods for polymorphism. I also struggled with the need to implement a custom `Fleet` class that could handle multiple vehicle types.
+
